@@ -7,7 +7,6 @@ As a developer and troubleshooter, I bring a unique blend of skills to the table
 
 - 🌱 I’m currently learning **Genai**
 
-- 👯 I’m looking to collaborate on **Web development, Machine Learning, IOT Projects**
 
 - 📫 How to reach me **ingawalepratham@gmail.com**
 
